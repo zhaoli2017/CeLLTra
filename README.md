@@ -1,4 +1,4 @@
-This repository contains the code for the paper "CeLLTra: Aligning Cell Names with Gene Expression via a Pathway-Informed Trans-former". It contains the code of biological pathway-informed gene expression transformer model and contrastive cell-name-gene-expression learning framework for cell type annotation of single cell data.
+This repository contains the code for the paper "CeLLTra: Aligning Cell Names with Gene Expression via a Pathway-Informed Transformer". It contains the code of biological pathway-informed gene expression transformer model and contrastive cell-name-gene-expression learning framework for cell type annotation of single cell data.
 
 The following figure shows the Pathway-informed gene expression transformer model: using biological pathways to group genes as super tokens and then apply transformer model to learn the gene expression representation.
 
